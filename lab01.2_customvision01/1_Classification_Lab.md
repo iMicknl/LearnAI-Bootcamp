@@ -26,11 +26,11 @@ If you receive the following error
 >The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, 
 >and the directory name must be less than 248 characters.. Please see Error List window for detailed warnings and errors.		
 
-Peform the following steps
+Perform the following steps
 
 1. Create a folder in the C:\ named Temp
-2. In Windows Explorer, browse to the folder C:\LearnAI-Bootcamp\lab01.2_customvision01\Resources\Starter
-3. Copy the CustomVision.Sample folder
+2. In Windows Explorer, browse to the folder C:\LearnAI-Bootcamp\lab01.2_customvision01\Resources
+3. Copy the full content (4 folders)
 4. Browse to C:\Temp, right click and click Paste
 5. Wait until the copy completes 
 
